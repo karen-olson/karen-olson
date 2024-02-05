@@ -43,7 +43,7 @@ A server program which can flexibly run an Echo Server or HTTP Server applicatio
 ### Tic-Tac-Toe | [Ruby Repo](https://github.com/karen-olson/ruby-tic-tac-toe) | [Elixir Repo](https://github.com/karen-olson/elixir-tic-tac-toe)
 CLI applications created to practice crafting well-designed code via test-driven development with RSpec and ExUnit. The application was "translated" from Ruby to Elixir to compare and contrast OOP and functional styles. 
 
-### Fun-Ology | [Repo](url)
+### Fun-ology | [Repo](https://github.com/karen-olson/fun-ology)
 A proof of concept flashcard app for speech-language therapists, providing fun, kid-friendly activities along with built-in data tracking to ease the burden on therapists. Built with Rails, BCrypt, React, MUI, and Redux, and previously deployed on Heroku. Conceptual focus was on authentication and authorization with [multiple user types](https://medium.com/@karen_olson/creating-multiple-user-types-with-a-one-to-many-relationship-in-rails-ba3bbe4b0a8a).
 
 ### SoulFit | [Repo](https://github.com/karen-olson/soulfit) | [Demo](https://www.loom.com/share/9adb4cd688c54d5497689071e8b25756)
