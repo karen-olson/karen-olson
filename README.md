@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Karen Olson (she/her).
 ### I'm a Full Stack Engineer with DevSecOps capabilities, language nerd, fitness enthusiast, and creative dabbler.
 
-- 🔭 **I’m currently working on** preparing to migrate a Title Insurance company's infrastructure (AWS, DataDog, and Looker) due to an acquisition.
+- 🔭 **I’m currently working on** preparing to migrate a Title Insurance company's tech (AWS, DataDog, Looker, and more) due to an acquisition.
 
     As the only full-time developer on the project, I'm also handling security, bug fixes, and infra maintenance.
   
